@@ -1,0 +1,8 @@
+prefix=/home/hjx/ros_study_ws/src/demo3/install
+
+Name: arbotix_controllers
+Description: Description of arbotix_controllers
+Version: 0.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

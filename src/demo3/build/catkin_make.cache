@@ -1,0 +1,2 @@
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:urdf01_rviz
+-DCATKIN_DEVEL_PREFIX=/home/hjx/ros_study_ws/src/demo3/devel -DCMAKE_INSTALL_PREFIX=/home/hjx/ros_study_ws/src/demo3/install -G Unix Makefiles

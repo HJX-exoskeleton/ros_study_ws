@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hjx/ros_study_ws/src/demo2/devel/setup.sh

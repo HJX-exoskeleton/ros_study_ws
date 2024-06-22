@@ -1,0 +1,8 @@
+prefix=/home/hjx/ros_study_ws/src/demo1/devel
+
+Name: hello_vscode
+Description: Description of hello_vscode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
